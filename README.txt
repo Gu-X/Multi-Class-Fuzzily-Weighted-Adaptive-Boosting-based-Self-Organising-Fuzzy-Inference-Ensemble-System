@@ -9,4 +9,4 @@ Ensemble Systems for Classification. IEEE Transactions on Fuzzy Systems, accepte
 =============================================================================================================================
 Please cite the paper above if this code helps. 
 Programmed by Xiaowei Gu. For any queries about the code, please contact Dr. Xiaowei Gu: x.gu@kent.ac.uk
-Source code would be given upon request.
+
