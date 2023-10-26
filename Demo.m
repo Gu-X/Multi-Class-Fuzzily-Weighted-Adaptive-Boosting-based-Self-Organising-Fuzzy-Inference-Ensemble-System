@@ -1,11 +1,11 @@
 clear all
 clc
 close all
-% dataname='exampledata.mat';  %% directionary of data, for example, 'C:\**\**\exampledata.mat';
+% dataname='exampledata.mat';  %% directory of data, for example, 'C:\**\**\exampledata.mat';
 
-% dataname='exampledata_le.mat';  %% directionary of data, for example, 'C:\**\**\exampledata.mat';
+% dataname='exampledata_le.mat';  %% directory of data, for example, 'C:\**\**\exampledata.mat';
 
-dataname='exampledata_ab.mat';  %% directionary of data, for example, 'C:\**\**\exampledata.mat';
+dataname='exampledata_ab.mat';  %% directory of data, for example, 'C:\**\**\exampledata.mat';
 
 %% in the dataset 'exampledata.mat'
 % DTra1 - training data;
